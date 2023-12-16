@@ -20,4 +20,5 @@ This repository explores Social Network Analysis techniques for marketing strate
 
 ## Files
 connections.txt: Data file containing the list of edges. <br>
-SNA.ipynb: Jupyter notebook with Python code snippets for each task.
+SNA.ipynb: Jupyter notebook with Python code snippets for each task. <br>
+requirements.txt: Install necessary packages using pip install -r requirements.txt.
