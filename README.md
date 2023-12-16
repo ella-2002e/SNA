@@ -19,5 +19,5 @@ This repository explores Social Network Analysis techniques for marketing strate
 - Action Plan: Design a hypothetical action plan for a chosen business, considering budget and cost per action.
 
 ## Files
-connections.txt: Data file containing the list of edges.
+connections.txt: Data file containing the list of edges. <br>
 SNA.ipynb: Jupyter notebook with Python code snippets for each task.
